@@ -2,7 +2,7 @@
     "bot_token": "COLOQUE_O_TOKEN_AQUI",
     "application_id": "COLOQUE_APP_ID_AQUI",
     "admins": [
-        "1138202544275984454"
+        "COLOQUE_O_ID_DO ADM__AQUI"
     ],
     "bot_name": "NOME_DO_BOT",
     "bot_presence": {
