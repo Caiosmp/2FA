@@ -3,7 +3,7 @@
 
 ![Banner do Projeto](https://i.imgur.com/F88nRR5.png)
 
-The Discord Bot aims to capture two-factor authentication (2FA) codes based on the provided secret key. Although the code is specifically designed for Discord, using the official API, it can serve as a foundation for developing similar systems to capture 2FA codes on other websites or applications.
+The Discord Bot aims to capture two-factor authentication (2FA) codes based on the provided secret key. Although the code is specifically designed for Discord, it can serve as a foundation for developing similar systems to capture 2FA codes on other websites or applications.
 
 ---
 
