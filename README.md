@@ -1,12 +1,9 @@
 
 # 🎮 **Bot Discord - Sistema de 2FA e Personalização**
 
-![Banner do Projeto](https://link-da-imagem-do-banner.com)
+![Banner do Projeto](https://i.imgur.com/F88nRR5.png)
 
-**Bot Discord** para gerenciar configurações avançadas de bots no Discord, com suporte completo para **autenticação de dois fatores (2FA)**, **personalização do bot** (nome, avatar, presença, banner, etc.) e **gerenciamento de administradores**. Ideal para quem precisa de **controle**, **segurança** e **flexibilidade** em seus servidores Discord.
-
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org)  
-[![Contributors](https://img.shields.io/github/contributors/SeuUsuario/nome-do-repositorio.svg?color=blue)](https://github.com/SeuUsuario/nome-do-repositorio/graphs/contributors)
+The Discord Bot aims to capture two-factor authentication (2FA) codes based on the provided secret key. Although the code is specifically designed for Discord, using the official API, it can serve as a foundation for developing similar systems to capture 2FA codes on other websites or applications.
 
 ---
 
@@ -74,15 +71,11 @@ Gere um código de autenticação de dois fatores para garantir maior segurança
 
 ## 👀 **Exemplo de Uso**
 
-### **Comando `/configbot`**
+### **Comando `/2FA`**
 Após executar o comando `/configbot`, o bot fornecerá um menu interativo para **gerenciar administradores** e outras configurações.
 
-![Exemplo Configbot](https://link-da-imagem-de-exemplo.com)
-
-### **Comando `/personalizar`**
-O comando `/personalizar` abrirá um menu de opções para **alterar o nome, avatar, presença e outros atributos** do bot.
-
-![Exemplo Personalizar](https://link-da-imagem-de-exemplo.com)
+![Exemplo 2FA](https://i.imgur.com/kuNe7DH.png)
+![Exemplo 2FA](https://i.imgur.com/1Xz6uYl.png)
 
 ---
 
@@ -110,8 +103,6 @@ Agradecemos aos seguintes contribuidores:
 - [Developed By Caio](https://github.com/Caiosmp)
 
 ---
-
-## 🎨 **Sobre o Design**
 
 Este projeto segue uma **abordagem de design responsivo** para garantir que a experiência de usuário seja agradável e intuitiva, mesmo em plataformas móveis ou em servidores com grandes números de membros.
 
